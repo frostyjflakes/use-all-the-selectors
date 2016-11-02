@@ -44,11 +44,11 @@ h1 {
   color: #fff;
 }
 
-html > body > header > nav > ul > li > mark {
+li > mark {
   background-color: #719e07;
 }
 
-li > mark {
+html > body > header > nav > ul > li > mark {
   background-color: #719e07;
 }
 
