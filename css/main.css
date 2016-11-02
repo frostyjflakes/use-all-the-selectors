@@ -40,7 +40,7 @@ h1 {
   background-color: #b58900;
 }
 
-.dfn strong:nth-child(2) {
+.dfn + strong second-child {
   color: #fff;
 }
 
