@@ -41,7 +41,7 @@ nav ul {
   color: #fff;
 }
 
-html mark {
+html > body > header > nav > ul > li > mark {
   background-color: #719e07;
 }
 
