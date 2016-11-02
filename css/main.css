@@ -40,12 +40,8 @@ h1 {
   background-color: #b58900;
 }
 
-.dfn + strong second-child {
+.dfn strong:nth-child(2) {
   color: #fff;
-}
-
-li > mark {
-  background-color: #719e07;
 }
 
 html > body > header > nav > ul > li > mark {
